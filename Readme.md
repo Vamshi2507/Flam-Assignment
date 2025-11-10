@@ -2,6 +2,11 @@
 
 A **multi-user drawing web app** where multiple users can draw simultaneously on a shared canvas with **real-time synchronization** using **WebSockets (Socket.io)**.
 
+## 🚀 Live Demo
+
+You can try the live version of the project here:  
+👉 [**Flam Assignment - Real-Time Collaborative Drawing App**](https://flam-assignment-uaws.onrender.com/)
+
 ---
 
 ## 🚀 Project Overview
